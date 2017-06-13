@@ -1,0 +1,83 @@
+{
+  "name": "Kill Them All!",
+  "quests": [
+    {
+      "name": "Kill some killer clowns!",
+      "description": "Kill a clown and obtain a realmstone",
+      "x": 27,
+      "y": 20,
+      "icon": {
+        "id": "nevermine:CoinCircus"
+      },
+      "prerequisites": [
+        "{Beginning Of Old}[This be a foul beast]"
+      ],
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "New",
+              "icon": {
+                "id": "nevermine:CelevePortal"
+              },
+              "mob": "nevermine.Clown",
+              "kills": 10,
+              "exact": false
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "nevermine:RealmstoneCeleve"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "nevermine:AncientTeleporterBlueprint"
+        }
+      ]
+    },
+    {
+      "name": "Those annoying chargers",
+      "description": "Kill some Chargers those things give me a headache",
+      "x": 67,
+      "y": 21,
+      "icon": {
+        "id": "nevermine:SilverCoin"
+      },
+      "prerequisites": [
+        "Kill some killer clowns!"
+      ],
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "New",
+              "icon": {
+                "id": "nevermine:CoinSilvro"
+              },
+              "mob": "nevermine.Charger",
+              "kills": 16,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "nevermine:StartingCoin",
+          "amount": 32
+        }
+      ]
+    }
+  ],
+  "reputationBar": []
+}

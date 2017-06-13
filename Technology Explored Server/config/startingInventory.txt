@@ -1,0 +1,13 @@
+OpenBlocks:infoBook,1,0
+TConstruct:manualBook,1,0
+aura:lexicon,1,0,{}
+OpenComputers:item,1,98
+SimpleAchievements:sa.achievementBook,1,0
+minecraft:torch,16,0
+TConstruct:jerky,64,5
+minecraft:leather_helmet,1,0,{ench:[0:{lvl:4s,id:0s},1:{lvl:3s,id:34s}],RepairCost:4}
+minecraft:leather_chestplate,1,0,{ench:[0:{lvl:4s,id:0s},1:{lvl:3s,id:34s}],RepairCost:4}
+minecraft:leather_leggings,1,0,{ench:[0:{lvl:4s,id:0s},1:{lvl:3s,id:34s}],RepairCost:4}
+minecraft:leather_boots,1,0,{ench:[0:{lvl:4s,id:1s},1:{lvl:3s,id:34s}],RepairCost:4}
+minecraft:wooden_sword,1,0,{ench:[0:{lvl:5s,id:16s},1:{lvl:3s,id:34s}],RepairCost:4}
+TConstruct:pickaxe,1,0,{InfiTool:{BaseDurability:96,Head:3,HeadEXP:0L,BaseAttack:3,ToolEXP:0L,HarvestLevel:0,Attack:3,RenderHead:3,ModDurability:0.0f,Handle:143,Broken:0b,Shoddy:0.0f,RenderHandle:143,Accessory:143,MiningSpeed:400,RenderAccessory:143,ToolLevel:1,HarvestLevelModified:0b,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:96,Modifiers:10},display:{Name:"§fStarter Pick"}}

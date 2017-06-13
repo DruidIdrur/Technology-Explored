@@ -1,0 +1,10 @@
+=== Begin of Adventure ===::1
+Craft a full set of Tinkers contruct work stations including a auto tool station::0
+Craft a Tinkers Construct Tool with at least 6 Modifiers::0
+Build a fully functional house including swimming pool with deck and diving board, 5 rooms with a roof::0
+Plant a full fledged farm using agricraft sprinklers and crop sticks containing at least 8 different crops::0
+Make a simple set up for storage using only Iron chests and hoppers to direct the flow::0
+Make a viable basic supply of power using Mekanism and IC2::0
+Investigate a farming machine::0
+=== Age of Power ===::1
+Begin by using Immersive engineering and Extra Utilities to make a power supply::0
