@@ -1,0 +1,6 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:underground mine,x:-4292,z:3009,y:11,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:0#
+name:Nether Portal,x:-871,z:1562,y:63,enabled:true,red:0.37155896,green:0.88025385,blue:0.21886647,suffix:,world:,dimensions:0#
+name:Latest Death,x:237,z:713,y:18,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:0#

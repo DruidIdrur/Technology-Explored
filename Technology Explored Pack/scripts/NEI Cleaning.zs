@@ -5,6 +5,7 @@ print("Initializing 'NEI Cleaning.zs'...");
 
 
 //NEI Clean-Up
+hide(<basicindustry:BIMachineCover>);
 hide(<minecraft:mob_spawner:*>);
 hide(<appliedenergistics2:item.ItemFacade:*>);
 hide(<extracells:pattern.fluid>);

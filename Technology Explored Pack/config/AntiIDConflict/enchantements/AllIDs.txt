@@ -98,16 +98,16 @@
 97 is Avaible
 98 is Avaible
 99 is Avaible
-100 is Occupied by: enchantment.control (net.nevermine.assist.AscensionEnchants$1)
-101 is Occupied by: enchantment.shell (net.nevermine.assist.AscensionEnchants$2)
-102 is Occupied by: enchantment.recharge (net.nevermine.assist.AscensionEnchants$3)
-103 is Occupied by: enchantment.overpower (net.nevermine.assist.AscensionEnchants$4)
-104 is Occupied by: enchantment.crush (net.nevermine.assist.AscensionEnchants$5)
-105 is Occupied by: enchantment.sever (net.nevermine.assist.AscensionEnchants$6)
-106 is Occupied by: enchantment.archmage (net.nevermine.assist.AscensionEnchants$7)
-107 is Occupied by: enchantment.windfury (net.nevermine.assist.AscensionEnchants$8)
-108 is Occupied by: enchantment.slice (net.nevermine.assist.AscensionEnchants$9)
-109 is Occupied by: enchantment.intervention (net.nevermine.assist.AscensionEnchants$10)
+100 is Avaible
+101 is Avaible
+102 is Avaible
+103 is Avaible
+104 is Avaible
+105 is Avaible
+106 is Avaible
+107 is Avaible
+108 is Avaible
+109 is Avaible
 110 is Occupied by: enchantment.Red (pixlepix.auracascade.enchant.KaleidoscopeEnchantment)
 111 is Occupied by: enchantment.Orange (pixlepix.auracascade.enchant.KaleidoscopeEnchantment)
 112 is Occupied by: enchantment.Yellow (pixlepix.auracascade.enchant.KaleidoscopeEnchantment)

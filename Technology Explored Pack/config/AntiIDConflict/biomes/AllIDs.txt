@@ -1,5 +1,5 @@
-Total amount of free biome ids: 165
-Total amount of occupied biome ids: 91
+Total amount of free biome ids: 187
+Total amount of occupied biome ids: 69
 Total amount of conflicted biome ids: 0
 All ids and their position:
 0 is Occupied by Ocean (net.minecraft.world.biome.BiomeGenOcean)
@@ -43,28 +43,28 @@ All ids and their position:
 38 is Occupied by Mesa Plateau F (net.minecraft.world.biome.BiomeGenMesa)
 39 is Occupied by Mesa Plateau (net.minecraft.world.biome.BiomeGenMesa)
 40 is Occupied by Storage Cell (appeng.spatial.BiomeGenStorage)
-41 is Occupied by Abyss (net.nevermine.dimension.abyss.BiomeGenAbyss)
-42 is Occupied by Ancient Cavern (net.nevermine.dimension.ancientcavern.BiomeGenAncientCavern)
-43 is Occupied by Barathos (net.nevermine.dimension.barathos.BiomeGenBarathos)
-44 is Occupied by Candyland (net.nevermine.dimension.candyland.BiomeGenCandyland)
-45 is Occupied by Celeve (net.nevermine.dimension.celeve.BiomeGenCeleve)
-46 is Occupied by Creeponia (net.nevermine.dimension.creeponia.BiomeGenCreeponia)
-47 is Occupied by Crystevia (net.nevermine.dimension.crystevia.BiomeGenCrystevia)
-48 is Occupied by Deeplands (net.nevermine.dimension.deeplands.BiomeGenDeeplands)
-49 is Occupied by Dustopia (net.nevermine.dimension.dustopia.BiomeGenDustopia)
-50 is Occupied by Gardencia (net.nevermine.dimension.gardencia.BiomeGenGardencia)
-51 is Occupied by Greckon (net.nevermine.dimension.greckon.BiomeGenGreckon)
-52 is Occupied by Haven (net.nevermine.dimension.haven.BiomeGenHaven)
-53 is Occupied by Immortallis (net.nevermine.dimension.immortallis.BiomeGenImmortallis)
-54 is Occupied by Iromine (net.nevermine.dimension.iromine.BiomeGenIromine)
-55 is Occupied by Borean (net.nevermine.dimension.lborean.BiomeGenBorean)
-56 is Occupied by Vox Ponds (net.nevermine.dimension.labricon.BiomeGenLabricon)
-57 is Occupied by Lelyetia (net.nevermine.dimension.lelyetia.BiomeGenLelyetia)
-58 is Occupied by Lunalus (net.nevermine.dimension.lunalus.BiomeGenLunalus)
-59 is Occupied by Mysterium (net.nevermine.dimension.mysterium.BiomeGenMysterium)
-60 is Occupied by Precasia (net.nevermine.dimension.precasia.BiomeGenPrecasia)
-61 is Occupied by Runandor (net.nevermine.dimension.runandor.BiomeGenRunandor)
-62 is Occupied by Vox Ponds (net.nevermine.dimension.voxponds.BiomeGenVoxponds)
+41 is Avaible
+42 is Avaible
+43 is Avaible
+44 is Avaible
+45 is Avaible
+46 is Avaible
+47 is Avaible
+48 is Avaible
+49 is Avaible
+50 is Avaible
+51 is Avaible
+52 is Avaible
+53 is Avaible
+54 is Avaible
+55 is Avaible
+56 is Avaible
+57 is Avaible
+58 is Avaible
+59 is Avaible
+60 is Avaible
+61 is Avaible
+62 is Avaible
 63 is Avaible
 64 is Avaible
 65 is Avaible
