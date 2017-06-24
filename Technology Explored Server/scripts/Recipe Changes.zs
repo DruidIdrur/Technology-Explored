@@ -31,7 +31,8 @@ recipes.removeShaped(<magicalcrops:IronSeeds>);
 recipes.removeShaped(<magicalcrops:GoldSeeds>);
 recipes.removeShaped(<magicalcrops:AluminiumSeeds>);
 recipes.removeShaped(<magicalcrops:ArditeSeeds>);
-
+recipes.removeShaped(<Avaritia:Dire_Crafting>);
+recipes.removeShaped(<ImmersiveEngineering:metalDevice2:5>);
 
 
 
@@ -65,6 +66,8 @@ furnace.addRecipe(<appliedenergistics2:item.ItemMultiMaterial:10>, <appliedenerg
 furnace.addRecipe(<appliedenergistics2:item.ItemMultiMaterial:11>, <minecraft:quartz>);
 furnace.addRecipe(<appliedenergistics2:item.ItemMultiMaterial:12>, <appliedenergistics2:item.ItemMultiMaterial:7>);
 furnace.addRecipe(<EnderIO:itemMaterial:0>, <appliedenergistics2:item.ItemMultiMaterial:2>);
+furnace.addRecipe(<Quadrum:clusteringot>, <Quadrum:metalcluster>);
+
 
 
 
@@ -109,8 +112,16 @@ recipes.addShaped(<minecraft:bedrock>, [[<ExtraUtilities:bedrockiumIngot>, <Extr
 recipes.addShaped(<appliedenergistics2:tile.BlockCharger>, [[<minecraft:iron_ingot>, <EnderIO:itemPowerConduit:1>, <minecraft:iron_ingot>], [<minecraft:iron_ingot>, null, null], [<minecraft:iron_ingot>, <EnderIO:itemPowerConduit:1>, <minecraft:iron_ingot>,]]);
 recipes.addShaped(<AdvancedSolarPanel:asp_crafting_items:12>, [[<AdvancedSolarPanel:asp_crafting_items:5>, <IC2:reactorReflectorThick:1>, <AdvancedSolarPanel:asp_crafting_items:5>], [<AdvancedSolarPanel:asp_crafting_items:5>, <IC2:itemBatLamaCrystal:26>, <AdvancedSolarPanel:asp_crafting_items:5>], [<AdvancedSolarPanel:asp_crafting_items:5>, <IC2:reactorReflectorThick:1>, <AdvancedSolarPanel:asp_crafting_items:5>,]]);
 recipes.addShaped(<IC2:itemCable:9> *8, [[<minecraft:glass>, <minecraft:glass>, <minecraft:glass>], [<minecraft:redstone>, <minecraft:diamond>, <minecraft:redstone>], [<minecraft:glass>, <minecraft:glass>, <minecraft:glass>,]]);
-recipes.addShaped(<minecraft:crafting_table>, [[<minecraft:log:*>, <minecraft:log:*>], [<minecraft:log:*>, <minecraft:log:*>]]);
+recipes.addShaped(<minecraft:crafting_table>, [[<ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>]]);
 recipes.addShaped(<TConstruct:Smeltery:2> *8, [[<TConstruct:materials:2>, <TConstruct:materials:2>, <TConstruct:materials:2>], [<TConstruct:materials:2>, <ore:ingotCopper>, <TConstruct:materials:2>], [<TConstruct:materials:2>, <TConstruct:materials:2>, <TConstruct:materials:2>,]]);
+recipes.addShaped(<Avaritia:Dire_Crafting>, [[<Avaritia:Triple_Craft>, <Avaritia:Triple_Craft>, <Avaritia:Triple_Craft>], [<Avaritia:Triple_Craft>, <Avaritia:Triple_Craft>, <Avaritia:Triple_Craft>], [<Avaritia:Triple_Craft>, <Avaritia:Triple_Craft>, <Avaritia:Triple_Craft>,]]);
+recipes.addShaped(<ImmersiveEngineering:metalDevice2:5> *16, [[<minecraft:iron_ingot>, <voltzengine:vePlate:4>, <minecraft:iron_ingot>], [<voltzengine:vePlate:4>, <BuildCraft|Transport:item.buildcraftPipe.pipefluidsdiamond>, <voltzengine:vePlate:4>], [<minecraft:iron_ingot>, <voltzengine:vePlate:4>, <minecraft:iron_ingot>,]]);
+recipes.addShaped(<Quadrum:metalcluster>, [[<exnihilo:exnihilo.platinum_broken>, <aobd:oreBrokenAdamantine>, <aobd:oreBrokenCobalt>], [<aobd:oreBrokenArdite>, <aobd:oreBrokenTungsten>, <aobd:oreBrokenMercury>], [<aobd:oreBrokenPalladium>, <aobd:oreBrokenIridium>, <aobd:oreBrokenDraconium>,]]);
+
+
+
+
+
 
 
 

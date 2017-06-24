@@ -1,9 +1,0 @@
-subworlds:
-oldNorthWorlds:
-seeds:
-name:portal,x:176,z:56,y:15,enabled:true,red:0.5161414,green:0.57342947,blue:0.80572265,suffix:,world:,dimensions:-1#
-name:surface point,x:960,z:3320,y:35,enabled:true,red:0.9684836,green:0.53684276,blue:0.4283523,suffix:,world:,dimensions:-1#
-name:pump,x:832,z:2360,y:36,enabled:true,red:0.9981453,green:0.106556416,blue:0.257778,suffix:,world:,dimensions:-1#
-name:nether fortress,x:-4176,z:8280,y:63,enabled:true,red:0.29696333,green:0.54294205,blue:0.6078261,suffix:,world:,dimensions:-1#
-name:kill box,x:144,z:-264,y:2,enabled:true,red:0.9986562,green:0.35445762,blue:0.31982535,suffix:,world:,dimensions:-1#
-name:Home,x:-84,z:-577,y:70,enabled:true,red:0.13648432,green:0.56001776,blue:0.014318943,suffix:,world:,dimensions:0#
